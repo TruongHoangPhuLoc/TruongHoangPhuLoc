@@ -14,7 +14,7 @@ Fun facts:
  + 😆 My name is Loc and it has "fortunate and lucky" meaning in my country 
 
 
- 🤔 I’m looking for help with developing skills, I think it'd be better for me for building up myself towards completetion
+ 🤔 I’m looking for help with developing skills, I think it'd be better for me to build up myself towards completetion
 
  
  👯 Please feel free to get in touch with me, I'm very grateful and delighted to be able to exchange knowledge from each other 
