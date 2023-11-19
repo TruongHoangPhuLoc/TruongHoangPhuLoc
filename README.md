@@ -8,9 +8,9 @@ I’m currently learning:
  + 🌱 Provisioning and Automation
  + 🌱 Building my own homelab for self-learning purpose 
 
-Fun fact: 
-    + 😆 Linux/Unix become my mainly focused subject at university as I wasn't able to afford license of Windows or anything relating to exclusive stuff :D
-    + 😆 My name is Loc and it has "fortunate and lucky" meaning in my country 
+Fun facts:
+ + 😆 Linux/Unix become my mainly focused subject at university as I wasn't able to afford license of Windows or anything relating to exclusive stuff :D
+ + 😆 My name is Loc and it has "fortunate and lucky" meaning in my country 
 
 
  🤔 I’m looking for help with developing skills, I think it'd be better for me for building up myself towards completetion
