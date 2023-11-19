@@ -10,7 +10,7 @@ I’m currently learning:
  + 🌱 Building my own homelab for self-learning purpose 
 
 Fun facts:
- + 😆 Linux/Unix become my mainly focused subject at university as I wasn't able to afford license of Windows or anything relating to exclusive stuff :D
+ + 😆 Linux/Unix became my mainly focused subject at university as I wasn't able to afford license of Windows or anything relating to exclusive stuff :D
  + 😆 My name is Loc and it has "fortunate and lucky" meaning in my country 
 
 
