@@ -7,7 +7,8 @@ I’m currently learning:
  + 🌱 Kubernetes-related topics
  + 🌱 Unix/Linux
  + 🌱 Provisioning and Automation
- + 🌱 Building my own homelab for self-learning purpose 
+ + 🌱 Building my own homelab for self-learning purpose
+ + 🌱 Devops practices
 
 Fun facts:
  + 😆 Linux/Unix became my mainly focused subject at university as I wasn't able to afford license of Windows or anything relating to exclusive stuff :D
