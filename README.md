@@ -3,14 +3,21 @@
 <!--
 **TruongHoangPhuLoc/TruongHoangPhuLoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Operation field, as a Linux/Unix administrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning:
+ + 🌱 Kubernetes-related topics
+ + 🌱 Unix/Linux
+ + 🌱 Provisioning and Automation
+ + 🌱 Building my own homelab for self-learning purpose 
+
+
+- Fun fact: 
+    😆 Linux/Unix become my mainly focused subject at university as I wasn't able to afford license of Windows or anything relating to exclusive stuff :D
+    😆 My name is Loc and it has "fortunate and lucky" meaning in my country 
+
+
+ 🤔 I’m looking for help with developing skills, I think it'd be better for me for building up myself towards completetion
+
+ 
+ 👯 Please feel free to get in touch with me, I'm very grateful and delighted to be able to exchange knowledge from each other 
