@@ -2,16 +2,15 @@
 
 🔭 I’m currently working on Operation field, as a Linux/Unix administrator
 
-- I’m currently learning:
+I’m currently learning:
  + 🌱 Kubernetes-related topics
  + 🌱 Unix/Linux
  + 🌱 Provisioning and Automation
  + 🌱 Building my own homelab for self-learning purpose 
 
-
-- Fun fact: 
-    😆 Linux/Unix become my mainly focused subject at university as I wasn't able to afford license of Windows or anything relating to exclusive stuff :D
-    😆 My name is Loc and it has "fortunate and lucky" meaning in my country 
+Fun fact: 
+    + 😆 Linux/Unix become my mainly focused subject at university as I wasn't able to afford license of Windows or anything relating to exclusive stuff :D
+    + 😆 My name is Loc and it has "fortunate and lucky" meaning in my country 
 
 
  🤔 I’m looking for help with developing skills, I think it'd be better for me for building up myself towards completetion
